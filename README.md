@@ -1,5 +1,5 @@
-# :octocat:Dashboard👇
-![Screenshot 2023-07-28 152259](https://github.com/Ujjal96/PowerBI_Sales_Dashboard)
+# Dashboard👇
+![Screenshot 2024-03-18 033634](https://github.com/Ujjal96/PowerBI_Sales_Dashboard/assets/144923159/c77581fe-3f28-45ab-afa1-cac32be8f350)
 
 <hr />
 <br />
